@@ -1,0 +1,16 @@
+body{
+    font-family: sans-serif;
+    background-color: #f7f7f7;
+    color:#333;
+    padding:20px;
+}
+h1{
+    color:#0077cc;
+}
+
+p{
+    a{
+        text-decoration: none;
+        color:#333;
+    }
+}
