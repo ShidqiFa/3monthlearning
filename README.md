@@ -11,7 +11,7 @@ buat nyiapin skill biar nanti bisa kerja remote USD. 🔥
 * List, link, gambar
 
 ## 📸 Screenshot
-![screenshot](https://ibb.co/zV9CRLKC)
+[![F70Ky3G.md.png](https://iili.io/F70Ky3G.md.png)](https://freeimage.host/i/F70Ky3G)
 
 ## 🌐 Live Demo
 
