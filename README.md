@@ -19,4 +19,4 @@ buat nyiapin skill biar nanti bisa kerja remote USD. 🔥
 
 ---
 
-> Dibuat dengan ❤️ oleh gua, target gua kerja remote USD dan beli iPhone 16 Pro Max hasil ngoding sendiri.
+> Dibuat dengan ❤️ oleh gua, target gua kerja remote USD dan beli Samsung S25 Ultra hasil ngoding sendiri.
